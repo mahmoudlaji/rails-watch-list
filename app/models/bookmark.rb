@@ -8,3 +8,4 @@ class Bookmark < ApplicationRecord
 
 
 end
+ 
