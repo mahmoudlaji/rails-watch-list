@@ -6,6 +6,9 @@ ruby "3.1.2"
 # Gemfile
   gem "dotenv-rails"
 
+  # Gemfile cloudinary pour image 
+gem "cloudinary"
+
 # bootstraps
 gem "bootstrap", "~> 5.2"
 
